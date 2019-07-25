@@ -1,2 +1,2 @@
 # blog
-blog.amirfayaz.ir
+http://blog.amirfayaz.ir
